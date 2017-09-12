@@ -2,6 +2,8 @@
 
 Online G-Code edition tools
 
+It is available at https://nybi.github.io/web-gcode-tools/
+
 ## Description
 
 Online tools to ease modification/adjustement of G-Code for 3D printers
@@ -39,3 +41,4 @@ This is a list of people who have contributed code or ideas to web-gcode-tools -
 for copyright purposes or whatever.
 
 * Loïc Fejoz <loic@fejoz.net> <https://github.com/loic-fejoz/>
+* Alexandre
